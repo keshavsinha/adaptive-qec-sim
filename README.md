@@ -1,7 +1,7 @@
 # Noise-Adaptive Surface-Code Decoding under Nonstationary Relaxation
 
 Simulation code for *Real-Time Noise-Adaptive Quantum Error Correction under
-Nonstationary Relaxation* (S. Choudhury, K. Sinha, A. K. Agrawal, UPES).
+Nonstationary Relaxation* (K. Sinha, UPES).
 
 Every table and figure in the revised manuscript is produced by
 `run_experiments.py`. Every logical error rate comes from circuit sampling with
